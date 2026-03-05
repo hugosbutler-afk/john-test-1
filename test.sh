@@ -1,0 +1,9 @@
+#!/bin/bash
+
+while true
+do
+  echo "hello"
+  sleep 60
+done
+
+
