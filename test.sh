@@ -3,7 +3,8 @@
 while true
 do
   echo "hello"
-  sleep 60
+  sleep 10
 done
 
 
+echo "more code"
